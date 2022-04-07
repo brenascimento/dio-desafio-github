@@ -1,0 +1,4 @@
+Linguagens:
+- Java
+- C#
+- Python
